@@ -3,6 +3,48 @@
   "imprint": "jembilang",
   "books": [
     {
+      "slug": "sunyi-yang-hilang",
+      "imprint": "jembilang",
+      "status": "published",
+      "title": "Sunyi yang Hilang",
+      "author": "Hujaman Akar",
+      "category": "Novel",
+      "published": { "date": "2026", "labels": { "en": "2026", "id": "2026", "ms": "2026" } },
+      "language": "Indonesian",
+      "pages": "Pending",
+      "isbn": "Pending",
+      "coverDriveId": "1-2BPXdn-GOWhqyQE5E8KW9phMnNsqosu",
+      "coverAlt": "Cover of Sunyi yang Hilang by Hujaman Akar",
+      "description": "A novel about a girl who can still listen, remember, and read to the final page in a riverside city overwhelmed by endless noise and shrinking attention.",
+      "cardDescription": "In a city that has forgotten how to listen, one girl searches for the silence everyone else has lost.",
+      "about": [
+        "In a riverside city crowded with screens, news, and ceaseless entertainment, people gradually lose the patience to hear a story through, remember a conversation, or value knowledge that takes time.",
+        "Timah is different. Her search for what is disappearing leads her to an old library near the river, where something long dismissed and forgotten may prove essential to the community's survival."
+      ],
+      "quote": "But has silence truly disappeared?",
+      "highlights": [
+        "A literary novel about attention, memory, and digital noise",
+        "A young protagonist who refuses to stop asking questions",
+        "A riverside city and an old library at the heart of the mystery"
+      ],
+      "details": { "Publisher": "Arian Jembilang", "Format": "Pending", "Edition": "First edition" },
+      "keywords": ["Novel", "Silence", "Attention", "Memory", "Library", "Digital Life"],
+      "metrics": { "Views": "0", "Bought": "0", "Cited": "0", "Sample Downloads": "0" },
+      "citations": {
+        "APA": "Akar, H. (2026). Sunyi yang Hilang. Arian Jembilang.",
+        "MLA": "Akar, Hujaman. Sunyi yang Hilang. Arian Jembilang, 2026.",
+        "Chicago": "Akar, Hujaman. 2026. Sunyi yang Hilang. Sabak: Arian Jembilang."
+      },
+      "price": 50000,
+      "currency": "IDR",
+      "related": ["tanah-di-hilir-peta", "sungai-yang-mengingat-nama"],
+      "translations": {
+        "id": { "title": "Sunyi yang Hilang", "category": "Novel", "language": "Bahasa Indonesia", "pages": "Belum ditetapkan", "description": "Novel tentang seorang anak perempuan yang masih mampu mendengar, mengingat, dan membaca hingga halaman terakhir di tengah kota tepian sungai yang dipenuhi kebisingan tanpa henti.", "cardDescription": "Di kota yang telah lupa cara mendengarkan, seorang anak perempuan mencari sunyi yang hilang.", "about": ["Di sebuah kota tepian sungai yang dipenuhi layar, kabar, dan hiburan tanpa henti, orang-orang perlahan kehilangan kesabaran untuk mendengarkan cerita sampai selesai, mengingat percakapan, atau menghargai pengetahuan yang memerlukan waktu.", "Timah berbeda. Pencariannya atas sesuatu yang menghilang membawanya ke sebuah perpustakaan tua di dekat sungai, tempat sesuatu yang lama dianggap remeh dan dilupakan mungkin menentukan kelangsungan hidup mereka."], "quote": "Tetapi benarkah sunyi itu telah hilang?", "highlights": ["Novel sastra tentang perhatian, ingatan, dan kebisingan digital", "Tokoh anak yang menolak berhenti bertanya", "Kota tepian sungai dan perpustakaan tua sebagai pusat misteri"], "details": { "Penerbit": "Arian Jembilang", "Format": "Belum ditetapkan", "Edisi": "Edisi pertama" }, "keywords": ["Novel", "Sunyi", "Perhatian", "Ingatan", "Perpustakaan", "Kehidupan Digital"], "coverAlt": "Sampul Sunyi yang Hilang karya Hujaman Akar" },
+        "ms": { "title": "Sunyi yang Hilang", "category": "Novel", "language": "Bahasa Indonesia", "pages": "Belum ditetapkan", "description": "Novel tentang seorang anak perempuan yang masih mampu mendengar, mengingati, dan membaca hingga halaman terakhir di sebuah bandar tepi sungai yang dipenuhi kebisingan tanpa henti.", "cardDescription": "Di bandar yang telah lupa cara mendengar, seorang anak perempuan mencari kesunyian yang hilang.", "about": ["Di sebuah bandar tepi sungai yang dipenuhi skrin, berita, dan hiburan tanpa henti, orang ramai perlahan-lahan kehilangan kesabaran untuk mendengar cerita hingga selesai, mengingati perbualan, atau menghargai pengetahuan yang memerlukan masa.", "Timah berbeza. Pencariannya terhadap sesuatu yang menghilang membawanya ke sebuah perpustakaan lama berhampiran sungai, tempat sesuatu yang telah lama dipandang remeh dan dilupakan mungkin menentukan kelangsungan hidup mereka."], "quote": "Tetapi benarkah kesunyian itu telah hilang?", "highlights": ["Novel sastera tentang perhatian, ingatan, dan kebisingan digital", "Watak kanak-kanak yang enggan berhenti bertanya", "Bandar tepi sungai dan perpustakaan lama sebagai pusat misteri"], "details": { "Penerbit": "Arian Jembilang", "Format": "Belum ditetapkan", "Edisi": "Edisi pertama" }, "keywords": ["Novel", "Kesunyian", "Perhatian", "Ingatan", "Perpustakaan", "Kehidupan Digital"], "coverAlt": "Kulit buku Sunyi yang Hilang karya Hujaman Akar" }
+      }
+    },
+
+    {
       "slug": "tanah-di-hilir-peta",
       "imprint": "jembilang",
       "status": "published",
