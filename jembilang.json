@@ -3,6 +3,36 @@
   "imprint": "jembilang",
   "books": [
     {
+      "slug": "tanah-di-hilir-peta",
+      "imprint": "jembilang",
+      "status": "hidden",
+      "title": "Tanah di Hilir Peta",
+      "author": "Julang Nibung",
+      "category": "Novel",
+      "published": { "date": "2026", "labels": { "en": "2026", "id": "2026", "ms": "2026" } },
+      "language": "Indonesian",
+      "pages": "Pending",
+      "isbn": "Pending",
+      "coverDriveId": "1P5bRA49_QOlWMw-5pV4MSm0sHLImftYS",
+      "coverAlt": "Cover of Tanah di Hilir Peta by Julang Nibung",
+      "description": "A literary novel about a cartographer whose smallest correction to a river map is followed by a real flood—and by the discovery that whole communities can be erased by the lines institutions draw.",
+      "cardDescription": "A cartographer discovers that changing a map may change who and what the world can still see.",
+      "about": ["Sanjung, a cartographer in Paya Hilir, trusts coordinates more than human testimony. After he shifts the Mendera River six pixels on his screen, water floods an upstream settlement the next day.", "When a development map from Pulau Jauh marks farms, schools, rivers, and inhabited villages as if they never existed, Sanjung sets out to correct the record—and begins to wonder whether the map is only describing the world or quietly remaking it."],
+      "quote": "A map could not possibly change the world.",
+      "highlights": ["Literary fiction about maps, power, and belonging", "A socio-environmental story set in the fictional Paya Hilir", "Bureaucratic realism with elements of the uncanny"],
+      "details": { "Publisher": "Arian Jembilang", "Format": "To be confirmed", "Edition": "First edition" },
+      "keywords": ["Novel", "Cartography", "Land", "River", "Development", "Paya Hilir"],
+      "metrics": { "Views": "0", "Bought": "0", "Cited": "0", "Sample Downloads": "0" },
+      "citations": { "APA": "Nibung, J. (2026). Tanah di Hilir Peta. Arian Jembilang.", "MLA": "Nibung, Julang. Tanah di Hilir Peta. Arian Jembilang, 2026.", "Chicago": "Nibung, Julang. 2026. Tanah di Hilir Peta. Sabak: Arian Jembilang." },
+      "price": 50000,
+      "currency": "IDR",
+      "related": [],
+      "translations": {
+        "id": { "title": "Tanah di Hilir Peta", "category": "Novel", "language": "Bahasa Indonesia", "pages": "Belum ditetapkan", "description": "Novel sastra tentang seorang kartografer yang menemukan bahwa garis pada peta tidak hanya mencatat dunia, tetapi juga dapat menentukan tempat dan manusia mana yang dianggap ada.", "cardDescription": "Seorang kartografer menemukan bahwa perubahan pada peta dapat mengubah siapa dan apa yang masih dapat dilihat dunia.", "about": ["Sanjung, seorang kartografer di Paya Hilir, lebih mempercayai koordinat daripada cerita manusia. Setelah ia menggeser Sungai Mendera enam piksel di layar, air meluap ke permukiman di hulu pada keesokan harinya.", "Ketika peta pembangunan dari Pulau Jauh menandai kebun, sekolah, sungai, dan kampung berpenghuni seolah tidak pernah ada, Sanjung berusaha membetulkan catatan itu—dan mulai bertanya apakah peta hanya menggambarkan dunia atau diam-diam membentuknya."], "quote": "Sebuah peta tidak mungkin mengubah dunia.", "highlights": ["Fiksi sastra tentang peta, kekuasaan, dan rasa memiliki", "Kisah sosial-lingkungan berlatar Paya Hilir", "Realisme birokratis dengan unsur ganjil"], "details": { "Penerbit": "Arian Jembilang", "Format": "Belum ditetapkan", "Edisi": "Edisi pertama" }, "keywords": ["Novel", "Kartografi", "Tanah", "Sungai", "Pembangunan", "Paya Hilir"], "coverAlt": "Sampul Tanah di Hilir Peta karya Julang Nibung" },
+        "ms": { "title": "Tanah di Hilir Peta", "category": "Novel", "language": "Bahasa Indonesia", "pages": "Belum ditetapkan", "description": "Novel sastera tentang seorang kartografer yang mendapati bahawa garis pada peta bukan sekadar mencatat dunia, malah dapat menentukan tempat dan manusia yang dianggap wujud.", "cardDescription": "Seorang kartografer mendapati bahawa perubahan pada peta dapat mengubah siapa dan apa yang masih dapat dilihat dunia.", "about": ["Sanjung, seorang kartografer di Paya Hilir, lebih mempercayai koordinat daripada cerita manusia. Selepas dia mengalihkan Sungai Mendera enam piksel pada skrin, air melimpah ke petempatan di hulu pada keesokan harinya.", "Apabila peta pembangunan dari Pulau Jauh menandakan kebun, sekolah, sungai, dan kampung berpenghuni seolah-olah tidak pernah wujud, Sanjung berusaha membetulkan catatan itu—dan mula bertanya sama ada peta hanya menggambarkan dunia atau diam-diam membentuknya."], "quote": "Sebuah peta tidak mungkin mengubah dunia.", "highlights": ["Fiksyen sastera tentang peta, kuasa, dan rasa kepunyaan", "Kisah sosial dan alam sekitar berlatar Paya Hilir", "Realisme birokrasi dengan unsur ganjil"], "details": { "Penerbit": "Arian Jembilang", "Format": "Belum ditetapkan", "Edisi": "Edisi pertama" }, "keywords": ["Novel", "Kartografi", "Tanah", "Sungai", "Pembangunan", "Paya Hilir"], "coverAlt": "Kulit buku Tanah di Hilir Peta karya Julang Nibung" }
+      }
+    },
+    {
       "slug": "sungai-yang-mengingat-nama",
       "imprint": "jembilang",
       "status": "published",
